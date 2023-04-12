@@ -1,0 +1,48 @@
+[
+	{
+	  "nombre": "Mojito",
+	  "ingredientes": [
+		"Ron",
+		"menta fresca",
+		"azúcar",
+		"limones",
+		"agua con gas"
+	  ]
+	},
+	{
+	  "nombre": "Daiquiri",
+	  "ingredientes": [
+		"Ron",
+		"jugo de limón",
+		"azúcar"
+	  ]
+	},
+	{
+	  "nombre": "Piña colada",
+	  "ingredientes": [
+		"Ron",
+		"jugo de piña",
+		"crema de coco",
+		"hielo"
+	  ]
+	},
+	{
+	  "nombre": "Ron con refresco de cola",
+	  "ingredientes": [
+		"Ron",
+		"refresco de cola",
+		"hielo",
+		"limón"
+	  ]
+	},
+	{
+	  "nombre": "Cuba libre",
+	  "ingredientes": [
+		"Ron",
+		"refresco de cola",
+		"hielo",
+		"limón"
+	  ]
+	}
+  ]
+  
